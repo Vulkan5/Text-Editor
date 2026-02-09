@@ -1,0 +1,4 @@
+# No external packages required for core editor; Tkinter is included with Python on most systems.
+# Optional (for building an installer):
+language-tool-python
+pyinstaller>=5.0
